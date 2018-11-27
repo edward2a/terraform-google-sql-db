@@ -1,3 +1,8 @@
+# vim
+*.swp
+
+# tf
+tests/
 **/terraform.tfstate*
 **/.terraform*
 **/backend.tf
